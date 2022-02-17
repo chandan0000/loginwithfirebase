@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096719413544",
+    "project_id": "emailpasswordauth-464c6",
+    "storage_bucket": "emailpasswordauth-464c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096719413544:android:008aa059fd664b9effa01d",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096719413544-k76vba4q3dfcp8qns6u2pkutk8qd4utv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQzHgcHhGv7ZULeDN2tGG-8t3ZwxVlbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096719413544-k76vba4q3dfcp8qns6u2pkutk8qd4utv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
